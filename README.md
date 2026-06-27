@@ -1,6 +1,6 @@
 # AI-Assistant  
 browser-based ai assistant<br/><br/>
-1 - model :<br/><br/>
+1 - Model :<br/><br/>
 https://huggingface.co/onnx-community/gemma-3-270m-it-ONNX/tree/main<br/><br/>
 2 - Structure :<br/><br/>
 assistant  
